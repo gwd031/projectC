@@ -15,7 +15,7 @@ int main()
         if (strcmp(grade, "A+") == 0) {
             p = 4.5;
         } else if (strcmp(grade, "A0") == 0) {
-            p = 4.0;
+            p = 4.0; 
         } else if (strcmp(grade, "B+") == 0) {
             p = 3.5;
         } else if (strcmp(grade, "B0") == 0) {
